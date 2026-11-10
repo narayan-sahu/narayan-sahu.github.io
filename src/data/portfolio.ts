@@ -41,7 +41,7 @@ export const portfolio = {
   name: "Narayan Sahu",
   title: "Cloud Native DevOps & SRE Engineer",
   experience: "2+ years" as string | null, // shown in the About card; set to null to hide
-  siteUrl: null as string | null, // set to your https://USERNAME.github.io/ to enable canonical URL
+  siteUrl: "https://narayan-sahu.github.io/" as string | null, // set to your https://USERNAME.github.io/ to enable canonical URL
   headline: "Building reliable cloud infrastructure and automation for resilient systems.",
   intro:
     "I work across cloud infrastructure, Infrastructure as Code, CI/CD, containers, and observability, with a focus on improving delivery workflows and production reliability.",
